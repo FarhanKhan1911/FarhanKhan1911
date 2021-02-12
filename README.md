@@ -15,22 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there ✌ I am Khan Farhan, a passionate self-taught full stack web developer, desktop application developer & a mobile app developer from India.<br>
+Hi there ✌ I am Khan Farhan, a passionate self-taught full stack web developer from India.<br>
 
 <ul>
 <li> 👍 I'm Currently learning the Django 
   
-⚡ Fun fact: I am Smarty
+😁 Fun fact: I am Smarty
 <br>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FarhanKhan1911&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="bhagwanZaki's github stats" />
 <br>
-
-This project is my only project which i can say is close to industry ready product
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanKhan1911&theme=chartreuse-dark&langs_count=8" />
+<br><br>
+So my team created this project as our mini project for college, of which I am proud off<br><br>
 <a href="https://github.com/Floran-Github/Project-code">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Floran-Github&repo=Project-code&theme=chartreuse-dark&show_owner=true" />
 </a>  
+<br><br>
+For more info or to get contact you can check out <a href="https://www.linkedin.com/in/farhan-khan-504b431a6/">my LinkedIn</a>
