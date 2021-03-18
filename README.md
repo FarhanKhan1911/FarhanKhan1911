@@ -20,7 +20,7 @@ Hi there ✌ I am Khan Farhan, a passionate self-taught full stack web developer
 <ul>
 <li> 👍 I'm Currently learning the Django 
 <li> 😉 I'm also working on a django website called CoderHi
-  <li>    <a href="https://github.com/Floran-Github/Project-code">
+  <li>    <a href="https://github.com/Floran-Github/CoderHifi-Code">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Floran-Github&repo=CoderHifi-code&theme=chartreuse-dark&show_owner=true" />
 </a>   
