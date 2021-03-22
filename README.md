@@ -21,7 +21,7 @@ Hi there ✌ I am Khan Farhan, a passionate self-taught full stack web developer
 <li> 👍 I'm Currently learning the Django 
 
 <li> 😁 Fun fact: I am Smarty
-
+<br>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FarhanKhan1911&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="bhagwanZaki's github stats" />
 
