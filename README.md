@@ -19,7 +19,7 @@ Hi there ✌ I am Khan Farhan, a passionate self-taught full stack web developer
 
 <ul>
 <li><p align="left"> <img src="https://komarev.com/ghpvc/?username=farhankhan1911&label=Profile%20views&color=0e75b6&style=flat" alt="farhankhan1911" /> </p> 
-<li> 👍 I'm Currently learning the Django 
+<li> 👍 I'm Currently learning the Django, Flutter and Machine Learning
 
 <li> 😁 Fun fact: I am Smarty
 <br>
