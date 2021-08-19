@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there ✌ I am Khan Farhan, a passionate self-taught full stack web developer from India.<br>
+Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30 px"> I am Khan Farhan, a passionate self-taught full stack web developer from India.<br>
 
 <ul>
 <li><p align="left"> <img src="https://komarev.com/ghpvc/?username=farhankhan1911&label=Profile%20views&color=0e75b6&style=flat" alt="farhankhan1911" /> </p> 
