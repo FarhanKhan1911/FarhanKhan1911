@@ -1,4 +1,4 @@
-### Hi there I am Khan Farhan Nadeem 👋
+### Hi there I am Khan Farhan Nadeem <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30 px">
 
 <!--
 **FarhanKhan1911/FarhanKhan1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30 px"> I am Khan Farhan, a passionate self-taught full stack web developer from India.<br>
+A passionate self-taught Full Stack Web Developer and UI UX Designer from India.<br>
 
 <ul>
 <li><p align="left"> <img src="https://komarev.com/ghpvc/?username=farhankhan1911&label=Profile%20views&color=0e75b6&style=flat" alt="farhankhan1911" /> </p> 
