@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A passionate self-taught Full Stack Web Developer and UI UX Designer from India.<br>
+A passionate self-taught Full Stack Web Developer from India.<br>
 
 <ul>
 <li><p align="left"> <img src="https://komarev.com/ghpvc/?username=farhankhan1911&label=Profile%20views&color=0e75b6&style=flat" alt="farhankhan1911" /> </p> 
-<li> 👍 I'm Currently learning the Django, Flutter and Machine Learning
+<li> 👍 I'm Currently working on the Django, Flutter and Machine Learning
 
-<li> 😁 Fun fact: I am Smarty
+
 <br>
    
 <p align="left" >
