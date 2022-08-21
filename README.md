@@ -25,7 +25,7 @@ A passionate self-taught Full Stack Web Developer from India.<br>
 <br>
    
 <p align="left" >
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=FarhanKhan1911&show_icons=true&locale=en&theme=vision-friendly-dark" alt="FarhanKhan1911" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=FarhanKhan1911&show_icons=true&locale=en&theme=vision-friendly-dark&&count_private=true&include_all_commits=true" alt="FarhanKhan1911" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanKhan1911&theme=vision-friendly-dark" alt="FarhanKhan1911" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FarhanKhan1911&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="FarhanKhan1911" />
 </p>
