@@ -114,5 +114,5 @@ With my team, I created this projects as our mini project for college, of which 
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Floran-Github&repo=CoderHifi-code&theme=chartreuse-dark&show_owner=true" />
 </a>   
   <br><br> 
-For more info or to get contact you can check out my <a href="https://www.linkedin.com/in/farhan-khan-504b431a6/">LinkedIn</a>
+For more information or to get contact you can check out my <a href="https://www.linkedin.com/in/farhan-khan-504b431a6/">LinkedIn</a>
 Also You can contact with my <a href="https://farhanportfolio.netlify.app/">Portfolio</a>
