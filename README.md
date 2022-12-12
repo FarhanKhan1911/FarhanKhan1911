@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A passionate self-taught Full Stack Web Developer from India.<br>
+
 
 <ul>
 <li><p align="left"> <img src="https://komarev.com/ghpvc/?username=farhankhan1911&label=Profile%20views&color=0e75b6&style=flat" alt="farhankhan1911" /> </p> 
