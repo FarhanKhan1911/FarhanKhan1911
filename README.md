@@ -1,4 +1,5 @@
-### Hi there I am Khan Farhan Nadeem <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30 px">
+<img src="https://github.com/FarhanKhan1911/FarhanKhan1911/blob/master/Frame%201.png" />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="8%">, Farhan Khan is here</h1>
 
 <!--
 **FarhanKhan1911/FarhanKhan1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
