@@ -29,6 +29,11 @@ Here are some ideas to get you started:
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=FarhanKhan1911&show_icons=true&locale=en&theme=vision-friendly-dark&&count_private=true&include_all_commits=true" alt="FarhanKhan1911" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanKhan1911&theme=vision-friendly-dark" alt="FarhanKhan1911" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FarhanKhan1911&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="FarhanKhan1911" />
+  <span>
+<a href="https://leetcode.com/khanfarhan1901">
+<img height="250" src="https://leetcard.jacoblin.cool/khanfarhan1901?theme=dark&font=Ubuntu&sheets=https://gist.githubusercontent.com/khanfarhan1901/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="khanfarhan1901 Leetcode Stats"/>
+</a>
+</span>
 </p>
 
 ## Languages & Tools 🛠
