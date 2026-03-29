@@ -1,5 +1,5 @@
 <img src="https://github.com/FarhanKhan1911/FarhanKhan1911/blob/master/Frame%201.png" />
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="8%">, Farhan Khan is here</h1>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="8%">, Farhan Khan is here</h1> -->
 
 <!--
 **FarhanKhan1911/FarhanKhan1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<ul>
-<li><p align="left"> <img src="https://komarev.com/ghpvc/?username=farhankhan1911&label=Profile%20views&color=0e75b6&style=flat" alt="farhankhan1911" /> </p> 
-<li> 👍 I'm Currently working on the Django, Flutter and Machine Learning
-
-
 <br>
    
 <p align="left" >
@@ -31,7 +24,7 @@ Here are some ideas to get you started:
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FarhanKhan1911&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="FarhanKhan1911" />
   <span>
 <a href="https://leetcode.com/khanfarhan1901">
-<img height="250" src="https://leetcard.jacoblin.cool/khanfarhan1901?theme=dark&font=Ubuntu&sheets=https://gist.githubusercontent.com/khanfarhan1901/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="khanfarhan1901 Leetcode Stats"/>
+   <img height="400" width="50%" src="https://leetcard.jacoblin.cool/khanfarhan1901?theme=dark&font=Noto%20Sans&ext=contest" alt="khanfarhan1901 Leetcode Stats"/>
 </a>
 </span>
 </p>
@@ -109,13 +102,5 @@ Here are some ideas to get you started:
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 -->
-
-
-With my team, I created this projects as our mini project for college, of which I am proud off<br>
-   <a href="https://github.com/Floran-Github/CoderHifi-Code">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Floran-Github&repo=CoderHifi-code&theme=chartreuse-dark&show_owner=true" />
-</a>   
-  <br><br> 
 For more information or to get contact you can check out my <a href="https://www.linkedin.com/in/farhan-khan-504b431a6/">LinkedIn</a>
 Also You can contact with my <a href="https://farhanportfolio.netlify.app/">Portfolio</a>
